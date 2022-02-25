@@ -1,4 +1,8 @@
-### 👋
+### 👋 Hi There!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farislr&theme=tokyonight) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=farislr&show_icons=true&theme=tokyonight) 
+
 
 <!--
 **farislr/farislr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
